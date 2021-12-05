@@ -1,0 +1,6 @@
+name: math10
+dependencies:
+  - numpy
+  - pandas
+  - python
+  - altair
