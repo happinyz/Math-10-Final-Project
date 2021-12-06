@@ -57,7 +57,7 @@ st.write(df.head(10))
 st.markdown("###### _Some columns are absolute indicators of a player's performance, and some are indicators of a player's performance relative to his opponent. For example, the 'diff' columns represent how a player performed against his opponent. The 'pm' columns represent that stat per minute. The 'at10/15' columns represent that stat at 10/15 minutes respectively. We use 10/15 minutes as thresholds as those times are highly influential parts of the game, and not all games go on longer than 20 minutes._")
 st.write("Looks good to go!")
 
-st.markdown("# Interesting ")
+st.markdown("# Some Interesting Data ")
 st.write("Patches are biweekly cycles where changes are made within the game to keep the game in a healthy state. Because of the impactful nature of patches, they can drastically affect how a champion or a player performs.")
 st.header("Champion Winrate Across Patches")
 st.write("Patches bring changes to the game that can impact a champion's performance. A champion can be made weaker or stronger in any given patch. Let's explore a champion's performance across the patches.")
