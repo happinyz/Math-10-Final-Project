@@ -18,6 +18,7 @@ pd.set_option('display.precision', 4)
 
 st.title("Alvin's Amazing Project")
 st.markdown("Created by: Alvin Zou")
+st.markdown("[Github Repo](https://github.com/happinyz/Math-10-Final-Project)")
 
 st.image("https://cdn.vox-cdn.com/thumbor/E9lgLaSUj4IC2q_t34U38apDCjI=/0x151:1920x1156/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22182760/patch_10_25_banner.jpg",
     use_column_width = True)
