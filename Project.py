@@ -27,7 +27,7 @@ st.markdown("#### This project explores the data behind competitive _League of L
 st.markdown("Over the course of 10+ years, League of Legends has developed into the largest and most successful esport in the world. Thousands of professional matches are played each year across the globe. Our data will be focusing on the professional matches from the 2021 season.")
 
 st.markdown("##### I used data and information from [Oracles Elixir](https://oracleselixir.com/), a League of Legends pro stats site. The **_2021 Match Data_** dataset can be found [here](https://oracleselixir-downloadable-match-data.s3-us-west-2.amazonaws.com/2021_LoL_esports_match_data_from_OraclesElixir_20211205.csv).")
-st.markdown("##### A definition of some of the columns can be found (here)[https://oracleselixir.com/definitions].")
+st.markdown("##### A definition of some of the columns can be found [here](https://oracleselixir.com/definitions).")
 
 st.markdown("# Preliminary Data Cleaning")
 st.write("Let's take a peek at what our dataset looks like currently.")
